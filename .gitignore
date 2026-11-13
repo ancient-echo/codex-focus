@@ -1,0 +1,8 @@
+# Codex JSONL logs can include prompts, paths and private source content.
+*.jsonl
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
